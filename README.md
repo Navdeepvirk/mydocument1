@@ -1,1 +1,1 @@
-# mydocument1
+document.write("Welcome to my document");
